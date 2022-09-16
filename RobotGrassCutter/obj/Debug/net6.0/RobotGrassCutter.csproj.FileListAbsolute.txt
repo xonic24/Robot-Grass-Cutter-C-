@@ -1,0 +1,15 @@
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\bin\Debug\net6.0\RobotGrassCutter.exe
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\bin\Debug\net6.0\RobotGrassCutter.deps.json
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\bin\Debug\net6.0\RobotGrassCutter.runtimeconfig.json
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\bin\Debug\net6.0\RobotGrassCutter.dll
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\bin\Debug\net6.0\RobotGrassCutter.pdb
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.csproj.AssemblyReference.cache
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.AssemblyInfoInputs.cache
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.AssemblyInfo.cs
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.csproj.CoreCompileInputs.cache
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.dll
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\refint\RobotGrassCutter.dll
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.pdb
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\RobotGrassCutter.genruntimeconfig.cache
+E:\C#\Akadémia\RobotGrassCutter\RobotGrassCutter\obj\Debug\net6.0\ref\RobotGrassCutter.dll
